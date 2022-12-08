@@ -1,4 +1,4 @@
-# README Generator
+# E-Commerce back end
   ## Table of Contents
   1.[Installation](#installation)
   2.[Instructions](#instructions)
