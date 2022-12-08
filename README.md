@@ -1,4 +1,4 @@
-# E-Commerce back end
+# E-Commerce Back-end
   ## Table of Contents
   1.[Installation](#installation)
   2.[Instructions](#instructions)
@@ -9,19 +9,19 @@
   6.[Contact Info](#credit)
 
   ## Installation
-  npm
+  First, source the schema(mysql -u root -p), then seed it (npm run seed), the start the server (npm start)
   ## Instructions
-  use npm to add packages then run app
+  Use Insomnia to access the db
   ## Description
-  creating a readme file from question prompts
+  This app is similar to the Shopify back end and demonstrates a working server and db
   ## Usage
-  node index.js
+  You can use this app to build a database. It's a great boiler plate for a retail/inventory based db
   ## License
   None
   undefined
   undefined
   ## Credit
-  -
+  Aaron King
   ## Contact Info
-  aaronpqking@gmail.com
+  Aaronpqking@gmail.com Github: Aaronpqking
   
